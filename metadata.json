@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de Pérdida de Carga en Tuberías",
+  "description": "Una aplicación web para calcular la pérdida de carga y visualizar el mapa de presión en sistemas de tuberías utilizando la ecuación de Darcy-Weisbach. Ingrese los parámetros de la tubería y del fluido para obtener resultados precisos y un gráfico interactivo.",
+  "requestFramePermissions": []
+}
